@@ -4,7 +4,7 @@ A responsive and user-friendly **Currency Converter** web application built usin
 
 ## 🚀 Live Demo
 
-🔗 **Live Website:** https://your-live-demo-link.com
+🔗 **Live Website:** https://currency-converter-three-rouge.vercel.app/
 
 ## 📌 Features
 
@@ -33,31 +33,7 @@ Currency-Converter/
 
 ## 📸 Screenshots
 
-> Add screenshots of your project here.
-
-Example:
-
-```
-screenshots/
-├── homepage.png
-└── converter.png
-```
-
-## ⚙️ Installation
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/currency-converter.git
-```
-
-2. Navigate to the project folder
-
-```bash
-cd currency-converter
-```
-
-3. Open `index.html` in your browser.
+<img width="956" height="500" alt="Screenshot 2026-07-16 204530" src="https://github.com/user-attachments/assets/7a75cdf2-6c5f-41e4-b7d7-5c87dbb30349" />
 
 ## 💡 How It Works
 
@@ -71,9 +47,9 @@ cd currency-converter
 
 **Aarohi Jain**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/aarohijain2006-pixel
 
-LinkedIn: https://linkedin.com/in/your-linkedin
+LinkedIn: https://www.linkedin.com/in/aarohi-jain-4616a739a/
 
 ---
 
